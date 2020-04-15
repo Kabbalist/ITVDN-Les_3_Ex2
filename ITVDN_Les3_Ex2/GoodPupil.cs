@@ -6,19 +6,19 @@ namespace ITVDN_Les3_Ex2
 {
     class GoodPupil : Pupil
     {
-        public new void Study()
+        public override void Study()
         {
             Console.WriteLine("Good Studing");
         }
-        public new void Read()
+        public override void Read()
         {
-            Console.WriteLine("Reading with 50-100% memorable");
+            Console.WriteLine("Reading with 50-80% memorable");
         }
-        public new void Write()
+        public override void Write()
         {
             Console.WriteLine("Writing with small count of errors");
         }
-        public new void Relax()
+        public override void Relax()
         {
             Console.WriteLine("Walks and sleep");
         }

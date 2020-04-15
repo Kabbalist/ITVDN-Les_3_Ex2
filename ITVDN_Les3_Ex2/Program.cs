@@ -7,7 +7,10 @@ namespace ITVDN_Les3_Ex2
         static void Main(string[] args)
         {
             ExelentPupil exPup = new ExelentPupil();
-            ClassRoom class1 = new ClassRoom(exPup);
+            GoodPupil gdPup = new GoodPupil();
+            BadPupil bdPup = new BadPupil();
+            ClassRoom class1 = new ClassRoom(exPup, bdPup, gdPup);
+            
             Console.ReadKey();
         }
     }

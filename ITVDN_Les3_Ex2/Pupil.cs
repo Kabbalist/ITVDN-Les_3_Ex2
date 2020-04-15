@@ -4,19 +4,19 @@ namespace ITVDN_Les3_Ex2
 {
     class Pupil
     {
-        public void Study()
+        virtual public void Study()
         {
             Console.WriteLine("Studing");
         }
-        public void Read()
+        virtual public void Read()
         {
             Console.WriteLine("Reading");
         }
-        public void Write()
+        virtual public void Write()
         {
             Console.WriteLine("Writing");
         }
-        public void Relax()
+        virtual public void Relax()
         {
             Console.WriteLine("Relaxing");
         }

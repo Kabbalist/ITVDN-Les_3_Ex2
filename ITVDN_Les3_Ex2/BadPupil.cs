@@ -6,19 +6,19 @@ namespace ITVDN_Les3_Ex2
 {
     class BadPupil : Pupil
     {
-        public new void Study()
+        public override void Study()
         {
             Console.WriteLine("Bad Studing");
         }
-        public new void Read()
+        public override void Read()
         {
             Console.WriteLine("Reading with <50% memorable");
         }
-        public new void Write()
+        public override void Write()
         {
             Console.WriteLine("Errors! One by one");
         }
-        public new void Relax()
+        public override void Relax()
         {
             Console.WriteLine("Drinking beer");
         }

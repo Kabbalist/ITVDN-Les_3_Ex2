@@ -1,0 +1,11 @@
+C:\Users\a78.dbataev\source\repos\ITVDN_Les3_Ex2\ITVDN_Les3_Ex2\bin\Debug\netcoreapp3.1\ITVDN_Les3_Ex2.exe
+C:\Users\a78.dbataev\source\repos\ITVDN_Les3_Ex2\ITVDN_Les3_Ex2\bin\Debug\netcoreapp3.1\ITVDN_Les3_Ex2.deps.json
+C:\Users\a78.dbataev\source\repos\ITVDN_Les3_Ex2\ITVDN_Les3_Ex2\bin\Debug\netcoreapp3.1\ITVDN_Les3_Ex2.runtimeconfig.json
+C:\Users\a78.dbataev\source\repos\ITVDN_Les3_Ex2\ITVDN_Les3_Ex2\bin\Debug\netcoreapp3.1\ITVDN_Les3_Ex2.runtimeconfig.dev.json
+C:\Users\a78.dbataev\source\repos\ITVDN_Les3_Ex2\ITVDN_Les3_Ex2\bin\Debug\netcoreapp3.1\ITVDN_Les3_Ex2.dll
+C:\Users\a78.dbataev\source\repos\ITVDN_Les3_Ex2\ITVDN_Les3_Ex2\bin\Debug\netcoreapp3.1\ITVDN_Les3_Ex2.pdb
+C:\Users\a78.dbataev\source\repos\ITVDN_Les3_Ex2\ITVDN_Les3_Ex2\obj\Debug\netcoreapp3.1\ITVDN_Les3_Ex2.csprojAssemblyReference.cache
+C:\Users\a78.dbataev\source\repos\ITVDN_Les3_Ex2\ITVDN_Les3_Ex2\obj\Debug\netcoreapp3.1\ITVDN_Les3_Ex2.AssemblyInfoInputs.cache
+C:\Users\a78.dbataev\source\repos\ITVDN_Les3_Ex2\ITVDN_Les3_Ex2\obj\Debug\netcoreapp3.1\ITVDN_Les3_Ex2.AssemblyInfo.cs
+C:\Users\a78.dbataev\source\repos\ITVDN_Les3_Ex2\ITVDN_Les3_Ex2\obj\Debug\netcoreapp3.1\ITVDN_Les3_Ex2.dll
+C:\Users\a78.dbataev\source\repos\ITVDN_Les3_Ex2\ITVDN_Les3_Ex2\obj\Debug\netcoreapp3.1\ITVDN_Les3_Ex2.pdb
